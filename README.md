@@ -1,6 +1,4 @@
-# liferay-apps-content-targeting-custom
-
-Liferay Audience Targeting / HTTP Referer rule
+# Liferay Audience Targeting / HTTP Referer rule
 
 **sorry, I have to fix the repo name **
 
